@@ -1,49 +1,40 @@
-<h2 align="left">Hi 👋! My name is Naman Goyal </h2>
+<!--
+**Codeguruu03/Codeguruu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-###
+# Hi there, I'm Naman Goyal! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamanGoyal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namangoyal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I'm a passionate programmer with a keen interest in cybersecurity, software development, and technology innovation. I love exploring new technologies and pushing the boundaries of what's possible with code. With a strong foundation in Python, Java, JavaScript, and C/C++, I thrive in collaborative environments where I can leverage my expertise in team projects. Known for my strong leadership skills and ability to foster teamwork, I'm always ready to learn new things and take on new challenges. 🚀
 
-###
+In addition to my coding skills, I'm also an avid scriptwriter, crafting compelling narratives and stories that captivate audiences. Leveraging my creativity and storytelling prowess, I enjoy exploring different genres and experimenting with unique storytelling techniques.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+When I'm not coding or writing scripts, you can find me experimenting with new recipes in the kitchen 🍳, exploring nature 🌳, or diving into a captivating book 📚. I'm also a gaming enthusiast 🎮 and enjoy both playing and developing games in my spare time.
 
-###
+I'm always open to new opportunities and collaborations, so feel free to reach out if you'd like to connect or work together on exciting projects! 💼
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🛠️ Skills & Tools
 
-###
+- **Programming Languages:** Python, Java, JavaScript, C/C++
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Database:** MySQL, SQLite
+- **Tools & Technologies:** Git, Visual Studio Code, Linux, Windows
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🚀 Projects
 
-###
+- **[Cyber Suite](https://github.com/Codeguruu03/CyberSuite):** A comprehensive Python application for cybersecurity tasks, including password generation, steganography, network scanning, and hash generation.
+- **[Web Development Portfolio](https://github.com/Codeguruu03/Portfolio):** My personal website showcasing my projects, skills, and experience in web development.
+- **[Data Encryption Tool](https://github.com/Codeguruu03/Data-Encryption-Tool):** A Python tool for encrypting and decrypting files with various encryption algorithms.
 
-<br clear="both">
+## 📈 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codeguruu03&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
-###
+## 📫 Let's Connect
+
+- **LinkedIn:** [https://www.linkedin.com/in/naman-goyal-b2b7b1263/](#clickhere)
+- **Email:** namanmaheshgoyal@gmail.com
+- **Portfolio:** [Your Portfolio Website](#)
+- **Twitter:** [https://twitter.com/NamanGo72765812](#)
+- **Instagram:** [https://www.instagram.com/namangoyal514.18/](#)
+
+Let's chat and collaborate on exciting projects together! 😊
