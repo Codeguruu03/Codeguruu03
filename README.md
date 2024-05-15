@@ -14,10 +14,11 @@ I'm always open to new opportunities and collaborations, so feel free to reach o
 
 ## 🛠️ Skills & Tools
 
-- **Programming Languages:** Python, Java, JavaScript, C/C++
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Database:** MySQL, SQLite
-- **Tools & Technologies:** Git, Visual Studio Code, Linux, Windows
+- **Programming Languages:** Python, Java, JavaScript, C/C++, Dart ,SQL ,UNIX
+- **Web Development:** HTML, CSS, JavaScript, ReactJs, NodeJs
+- **Database:** MySQL, MongoDB, Azure
+- **Tools & Technologies:** Git, Visual Studio Code, Linux, Windows, IntelliJ
+- **Frameworks:** Django, Flask, ReactJs
 
 ## 🚀 Projects
 
