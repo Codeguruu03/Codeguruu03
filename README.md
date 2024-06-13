@@ -55,6 +55,8 @@ I'm always open to new opportunities and collaborations, so feel free to reach o
 
 Let's chat and collaborate on exciting projects together! 😊
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Codeguruu03&label=Profile%20views&color=0e75b6&style=flat" alt="Codeguruu03" /> </p>
+
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
