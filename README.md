@@ -26,8 +26,8 @@ I'm always open to new opportunities and collaborations, so feel free to reach o
 - **[Web Development Portfolio](https://github.com/Codeguruu03/Portfolio):** My personal website showcasing my projects, skills, and experience in web development.
 - **[Data Encryption Tool](https://github.com/Codeguruu03/Data-Encryption-Tool):** A Python tool for encrypting and decrypting files with various encryption algorithms.
 
-## 📈 GitHub Stats
-
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:** ️
+<table>
  <tr>
     <td>
       <a href="https://github.com/Codeguruu03"><img alt="Codeguruu03's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Codeguruu03&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
