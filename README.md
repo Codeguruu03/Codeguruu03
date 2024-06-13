@@ -39,3 +39,9 @@ I'm always open to new opportunities and collaborations, so feel free to reach o
 - **Instagram:** [https://www.instagram.com/namangoyal514.18/](#)
 
 Let's chat and collaborate on exciting projects together! 😊
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+  <img src="Bottom.svg" alt="Github Stats" />
+</p>
