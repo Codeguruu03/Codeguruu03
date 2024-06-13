@@ -28,7 +28,22 @@ I'm always open to new opportunities and collaborations, so feel free to reach o
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codeguruu03&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+ <tr>
+    <td>
+      <a href="https://github.com/Codeguruu03"><img alt="Codeguruu03's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Codeguruu03&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>                        
+    <td>
+      <a href="https://github.com/Codeguruu03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Codeguruu03&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/Codeguruu03"><img alt="Codeguruu03's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeguruu03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codeguruu03&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+
 
 ## 📫 Let's Connect
 
