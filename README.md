@@ -49,7 +49,7 @@ I'm always open to new opportunities and collaborations, so feel free to reach o
 
 - **LinkedIn:** [https://www.linkedin.com/in/naman-goyal-b2b7b1263/](#clickhere)
 - **Email:** namanmaheshgoyal@gmail.com
-- **Portfolio:** [Your Portfolio Website](#)
+- **Portfolio:** [namananilgoyal.com](#)
 - **Twitter:** [https://twitter.com/NamanGo72765812](#)
 - **Instagram:** [https://www.instagram.com/namangoyal514.18/](#)
 
