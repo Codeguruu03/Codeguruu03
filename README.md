@@ -24,7 +24,6 @@ I'm always open to new opportunities and collaborations, so feel free to reach o
 
 - **[Cyber Suite](https://github.com/Codeguruu03/CyberSuite):** A comprehensive Python application for cybersecurity tasks, including password generation, steganography, network scanning, and hash generation.
 - **[Web Development Portfolio](https://github.com/Codeguruu03/Portfolio):** My personal website showcasing my projects, skills, and experience in web development.
-- **[Data Encryption Tool](https://github.com/Codeguruu03/Data-Encryption-Tool):** A Python tool for encrypting and decrypting files with various encryption algorithms.
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:** ️
 <table>
@@ -46,12 +45,11 @@ I'm always open to new opportunities and collaborations, so feel free to reach o
 
 
 ## 📫 Let's Connect
-
-- **LinkedIn:** [https://www.linkedin.com/in/naman-goyal-b2b7b1263/](#clickhere)
-- **Email:** namanmaheshgoyal@gmail.com
-- **Portfolio:** [namananilgoyal.com](#)
-- **Twitter:** [https://twitter.com/NamanGo72765812](#)
-- **Instagram:** [https://www.instagram.com/namangoyal514.18/](#)
+- **LinkedIn:** [Connect with me on Linkedin](https://www.linkedin.com/in/naman-goyal-b2b7b1263/)
+- **Email:** [namanmaheshgoyal@gmail.com](mailto:namanmaheshgoyal@gmail.com)
+- **Portfolio:** [namananilgoyal.com](https://namananilgoyal.com)
+- **Twitter:** [Follow me on Twitter](https://twitter.com/NamanGo72765812)
+- **Instagram:** [Check out my Instagram](https://www.instagram.com/namangoyal514.18/)
 
 Let's chat and collaborate on exciting projects together! 😊
 
