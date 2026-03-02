@@ -19,11 +19,17 @@ I'm always open to new opportunities and collaborations, so feel free to reach o
 - **Database:** MySQL, MongoDB, Azure
 - **Tools & Technologies:** Git, Visual Studio Code, Linux, Windows, IntelliJ
 - **Frameworks:** Django, Flask, ReactJs
-
 ## 🚀 Projects
 
-- **[Cyber Suite](https://github.com/Codeguruu03/CyberSuite):** A comprehensive Python application for cybersecurity tasks, including password generation, steganography, network scanning, and hash generation.
-- **[Web Development Portfolio](https://github.com/Codeguruu03/Portfolio):** My personal website showcasing my projects, skills, and experience in web development.
+- **[CyberSuite](https://github.com/Codeguruu03/CyberSuite):** A modular Python-based cybersecurity toolkit integrating password generation, steganography, network scanning, hashing, and security testing utilities into a unified CLI application.
+
+- **[NL2SQL Agent](https://github.com/Codeguruu03/NL2SQL_Agent):** A multi-agent AI system that converts natural language queries into SQL, executes them on a connected database, and generates intelligent summaries for interactive data exploration.
+
+- **[ExamForge](https://github.com/Codeguruu03/ExamForge):** An intelligent exam and quiz generation system that automates assessment creation with customizable question formats and structured output.
+
+- **[Intelligence Inventory Management](https://github.com/Codeguruu03/Intelligence_Inventory_Management):** A full-stack AI-powered inventory management system built with Next.js, Express, and MongoDB, featuring real-time analytics and decision-driven stock insights.
+
+- **[Web Development Portfolio](https://github.com/Codeguruu03/Portfolio):** My personal website showcasing my projects, technical skills, and development experience.
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:** ️
 <table>
